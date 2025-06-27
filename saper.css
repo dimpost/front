@@ -1,0 +1,29 @@
+.myTDCovered {
+    border-style: solid;        
+    background: Gainsboro;
+    width: 30;
+    height: 30;
+}
+
+.myTDUnCovered {
+    border-style: solid;        
+    background: white;    
+    width: 30;
+    height: 30;
+    text-align: center;
+
+}
+
+.bombCell {
+    width: 10;
+    height: 10;
+    background: red;    
+    text-align: center;
+}
+
+.flagCell {
+    width: 10;
+    height: 10;
+    background: Gainsboro;    
+    text-align: center;
+}
